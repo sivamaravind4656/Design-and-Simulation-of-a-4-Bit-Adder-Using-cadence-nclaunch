@@ -97,16 +97,13 @@ endmodule
 
 ### Nclaunch Work Library Window
 
-![Screenshot 2025-05-21 155538](https://github.com/user-attachments/assets/187ebe28-40e2-44b2-9b78-d08bdc67d62c)
+![3792278C-8174-4A84-A63C-1EEB14088E13_1_201_a](https://github.com/user-attachments/assets/a10e162f-ef09-45ac-a03d-b25d5b9073d4)
 
 ### Simulation Waveforms
-![Screenshot 2025-05-21 155512](https://github.com/user-attachments/assets/4d1457be-ef30-4b8b-a58d-aa8ac39c078c)
-
+![1D7186E7-0D7A-46FD-90FD-A720931778A0_1_201_a](https://github.com/user-attachments/assets/0483c7ba-2b07-41c1-b769-453397a7e265)
 
 
 ## Results
 Successfully designed the 1-bit Full Adder and 4-bit Adder using Verilog HDL.
 Simulated the design using Cadence nclaunch and verified the output.
 Observed correct addition functionality for all test cases.
-
-
